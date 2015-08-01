@@ -4,8 +4,8 @@
 
 
 FInalised Excel based Analysis Tool
-Provide a holistic frequency based view of words. 
+Providing a holistic frequency based view of words. 
 I have used this in the past to assist in identifying common patterns in maintenance failure data and analysis 
 of material ordering.
 
-Allthough subjective can still provide a insight into maintenance supporting the maintenance function.
+Allthough subjective can still provide an insight into maintenance and supporting the maintenance function.
