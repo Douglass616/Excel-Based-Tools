@@ -14,3 +14,12 @@ Allthough subjective can still provide an insight into maintenance and supportin
 Weibull Calculator
 ------------------
 Weibull failure probability calculator and report generator.
+
+Multi File Renaming / Deletion
+-------------------------------
+Macro to rename multiple files or delete multiple files through excel.
+Handy if you need to rename 100's of files. 
+
+Be very mindful of delete through excel as theres no going back....
+
+error in file delete if file is first rennamed then deledted without folder refresh.
