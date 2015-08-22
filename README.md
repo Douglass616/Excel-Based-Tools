@@ -22,4 +22,8 @@ Handy if you need to rename 100's of files.
 
 Be very mindful of delete through excel as theres no going back....
 
-error in file delete if file is first rennamed then deledted without folder refresh.
+#error in file delete if file is first rennamed then deledted without folder refresh.
+
+Monti Carlo Based Estimating
+----------------------------
+Estimate a value based on defined multiple ranges, with upto 1,000,000 simulations.
