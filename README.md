@@ -26,4 +26,6 @@ error in file delete if file is first rennamed then deledted without folder refr
 
 Monti Carlo Based Estimating
 ----------------------------
-Estimate a value based on defined multiple ranges, with upto 1,000,000 simulations.
+Estimate a value based on a defined number of ranges, with upto 1,000,000 simulations.
+Good for estimating a budget value based on ranges, can also fine tune the estimated range to a probability.
+
