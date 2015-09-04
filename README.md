@@ -1,6 +1,8 @@
 # Excel-Based-Tools
 
 ## For those not familiar with 'Git'. Click on the file then view raw file.
+## All VBA Code authored By M Douglass
+
 
 
 Finalised Excel based Analysis Tool
@@ -29,3 +31,9 @@ Monti Carlo Based Estimating
 Estimate a value based on a defined number of ranges, with upto 1,000,000 simulations.
 Good for estimating a budget value based on ranges, can also fine tune the estimated range to a probability.
 
+Excel VBA not Asset management related
+--------------------------------------
+
+Yahoo Finance Share Tracker
+---------------------------
+Track shares prices in real time and update your positions, shows gains and company data. 
